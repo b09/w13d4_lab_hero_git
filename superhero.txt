@@ -1,2 +1,3 @@
 A Day in the Life of a Superhero.
 Another line while in the branch called 'develop'.
+Once upon a time a superhero woke up. She was tired of fixing all mess made by the humans. So she stayed at home, watched and ate ice cream.
